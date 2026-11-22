@@ -1,2 +1,2 @@
-# DSP
+# dsp-titanic
 Data Sciene Project
